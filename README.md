@@ -1,6 +1,8 @@
 Arithmetic Trees
 ================
 
+[![Join the chat at https://gitter.im/jtanguy/Arithmetic-Trees](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jtanguy/Arithmetic-Trees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Purpose
 This is just the port of Java practicals at École Centrale de
 Nantes. The goal is to describe polynomials as trees, then evaluate them or derive
